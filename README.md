@@ -32,12 +32,6 @@
 
 ---
 
-## 📜 Licença
-
-[MIT License](LICENSE)
-
----
-
 ## 🤝 Contribuições
 
 Sinta-se à vontade para contribuir com melhorias, novos scripts ou correções via Pull Request. 🚀
@@ -48,6 +42,6 @@ Sinta-se à vontade para contribuir com melhorias, novos scripts ou correções 
 
 Desenvolvido por **Rosner Pelaes Nascimento**  
 
-🔗 [Blog Técnico](https://blog.rosnertech.com.br/)  
-💼 [LinkedIn](https://br.linkedin.com/in/rosner-pelaes-nascimento)  
-📺 [YouTube - Rosner Tech](https://www.youtube.com/channel/UCik9XQ-ymobqhDOa9_aye-g)
+🔗 <a href="https://blog.rosnertech.com.br/" target="_blank">Blog Técnico</a>  
+💼 <a href="https://br.linkedin.com/in/rosner-pelaes-nascimento" target="_blank">LinkedIn</a>  
+📺 <a href="https://www.youtube.com/channel/UCik9XQ-ymobqhDOa9_aye-g" target="_blank">YouTube - Rosner Tech</a>
